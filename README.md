@@ -22,7 +22,7 @@ However, the code (firmware) for the Lego "RCX Pocket Programmer" has been compl
 
 Unfortunately, unlike [OnScreenProgramming](https://github.com/BrickBot/OnScreenProgramming), the source code for this Pocket Programmer is not currently available, but available binaries are posted under Releases.
 
-## Features:
+## Features
 * RCX Standalone/Pocket Programmer with 256 Program Steps
 * 22 Powerful RCX Commands (GOto, PAUSe, INput, OUput, LOop, ...)
 * 16 Registers (8-bit) for processing input/output data, etc.
@@ -33,3 +33,6 @@ Unfortunately, unlike [OnScreenProgramming](https://github.com/BrickBot/OnScreen
 * Single Step Execution Mode
 * VLL Communication (send VLL codes to MicroScout & CodePilot)
 * IR Communication (send/receive Messages & Remote Commands)
+
+## Usage
+Please refer to the [Programmer’s Guide](https://raw.githubusercontent.com/BrickBot/PocketProgrammer/master/PocketProgrammerGuide.pdf).
